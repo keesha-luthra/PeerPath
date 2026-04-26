@@ -10,7 +10,7 @@ It provides a simple backend server to handle application logic and serve conten
 ### 1️⃣ Application View
 
 <p align="center">
-  <img src="./screenshots/1.jpg" width="650"/>
+  <img src="./screenshots/1.png" width="650"/>
 </p>
 
 ---
@@ -18,7 +18,7 @@ It provides a simple backend server to handle application logic and serve conten
 ### 2️⃣ Server Running
 
 <p align="center">
-  <img src="./screenshots/2.jpg" width="650"/>
+  <img src="./screenshots/2.png" width="650"/>
 </p>
 
 ---
